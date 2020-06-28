@@ -466,10 +466,10 @@ LinkedList本身实现了Deque接口，Node类拥有前后指针
     }
 ```
 ## 7. 如何查询接口信息？如何使用？
-  ```mermaid
-    graph TD
-    A[Google] --> B[例如输入stack java 12] --> D[进入官方文档]
-    A[Google] --> C[查看版本 Java last version]
-  ```
-  ## 8. 本周学习感想
-  主要是学习方法的改变，高效的学习方法事半功倍，把五毒神掌的学习方法融会贯通到学习工作中。
+```mermaid
+graph TD
+A[Google] --> B[例如输入stack java 12] --> D[进入官方文档]
+A[Google] --> C[查看版本 Java last version]
+```
+## 8. 本周学习感想
+主要是学习方法的改变，高效的学习方法事半功倍，把五毒神掌的学习方法融会贯通到学习工作中。
